@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\bin\Debug\net6.0\1094Experiments.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\bin\Debug\net6.0\1094Experiments.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\bin\Debug\net6.0\1094Experiments.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\bin\Debug\net6.0\1094Experiments.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\bin\Debug\net6.0\1094Experiments.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\refint\1094Experiments.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\1094Experiments.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1094Experiments\1094Experiments\obj\Debug\net6.0\ref\1094Experiments.dll

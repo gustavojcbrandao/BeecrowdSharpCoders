@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\bin\Debug\net6.0\1115Quadrant.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\bin\Debug\net6.0\1115Quadrant.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\bin\Debug\net6.0\1115Quadrant.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\bin\Debug\net6.0\1115Quadrant.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\bin\Debug\net6.0\1115Quadrant.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\refint\1115Quadrant.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\1115Quadrant.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1115Quadrant\1115Quadrant\obj\Debug\net6.0\ref\1115Quadrant.dll

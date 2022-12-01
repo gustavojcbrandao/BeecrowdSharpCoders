@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\bin\Debug\net6.0\1016Distance.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\bin\Debug\net6.0\1016Distance.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\bin\Debug\net6.0\1016Distance.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\bin\Debug\net6.0\1016Distance.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\bin\Debug\net6.0\1016Distance.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\refint\1016Distance.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\1016Distance.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1016Distance\1016Distance\obj\Debug\net6.0\ref\1016Distance.dll

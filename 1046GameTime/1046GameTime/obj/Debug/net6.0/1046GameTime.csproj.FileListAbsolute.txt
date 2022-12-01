@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\bin\Debug\net6.0\1046GameTime.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\bin\Debug\net6.0\1046GameTime.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\bin\Debug\net6.0\1046GameTime.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\bin\Debug\net6.0\1046GameTime.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\bin\Debug\net6.0\1046GameTime.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\refint\1046GameTime.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\1046GameTime.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1046GameTime\1046GameTime\obj\Debug\net6.0\ref\1046GameTime.dll

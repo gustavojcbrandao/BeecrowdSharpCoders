@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\bin\Debug\net6.0\1040Average3.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\bin\Debug\net6.0\1040Average3.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\bin\Debug\net6.0\1040Average3.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\bin\Debug\net6.0\1040Average3.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\bin\Debug\net6.0\1040Average3.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\refint\1040Average3.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\1040Average3.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Average3\1040Average3\obj\Debug\net6.0\ref\1040Average3.dll

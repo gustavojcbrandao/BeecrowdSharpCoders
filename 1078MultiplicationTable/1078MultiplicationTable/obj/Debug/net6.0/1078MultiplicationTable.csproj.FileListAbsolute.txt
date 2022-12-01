@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\bin\Debug\net6.0\1078MultiplicationTable.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\bin\Debug\net6.0\1078MultiplicationTable.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\bin\Debug\net6.0\1078MultiplicationTable.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\bin\Debug\net6.0\1078MultiplicationTable.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\bin\Debug\net6.0\1078MultiplicationTable.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\refint\1078MultiplicationTable.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\1078MultiplicationTable.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1078MultiplicationTable\1078MultiplicationTable\obj\Debug\net6.0\ref\1078MultiplicationTable.dll

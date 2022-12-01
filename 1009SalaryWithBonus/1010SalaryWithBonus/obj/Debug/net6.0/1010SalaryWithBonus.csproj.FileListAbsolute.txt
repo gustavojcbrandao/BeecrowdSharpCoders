@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\bin\Debug\net6.0\1010SalaryWithBonus.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\bin\Debug\net6.0\1010SalaryWithBonus.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\bin\Debug\net6.0\1010SalaryWithBonus.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\bin\Debug\net6.0\1010SalaryWithBonus.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\bin\Debug\net6.0\1010SalaryWithBonus.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\refint\1010SalaryWithBonus.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\1010SalaryWithBonus.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SalaryWithBonus\1010SalaryWithBonus\obj\Debug\net6.0\ref\1010SalaryWithBonus.dll

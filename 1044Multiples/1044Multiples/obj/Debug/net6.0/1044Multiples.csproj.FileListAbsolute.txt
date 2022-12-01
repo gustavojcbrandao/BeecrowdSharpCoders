@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\bin\Debug\net6.0\1044Multiples.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\bin\Debug\net6.0\1044Multiples.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\bin\Debug\net6.0\1044Multiples.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\bin\Debug\net6.0\1044Multiples.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\bin\Debug\net6.0\1044Multiples.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\refint\1044Multiples.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\1044Multiples.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1044Multiples\1044Multiples\obj\Debug\net6.0\ref\1044Multiples.dll

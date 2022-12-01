@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\bin\Debug\net6.0\1050DDD.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\bin\Debug\net6.0\1050DDD.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\bin\Debug\net6.0\1050DDD.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\bin\Debug\net6.0\1050DDD.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\bin\Debug\net6.0\1050DDD.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\refint\1050DDD.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\1050DDD.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1050DDD\1050DDD\obj\Debug\net6.0\ref\1050DDD.dll

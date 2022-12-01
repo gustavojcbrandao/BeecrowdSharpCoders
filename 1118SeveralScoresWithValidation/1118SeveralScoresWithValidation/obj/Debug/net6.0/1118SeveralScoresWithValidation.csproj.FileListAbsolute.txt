@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\bin\Debug\net6.0\1118SeveralScoresWithValidation.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\bin\Debug\net6.0\1118SeveralScoresWithValidation.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\bin\Debug\net6.0\1118SeveralScoresWithValidation.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\bin\Debug\net6.0\1118SeveralScoresWithValidation.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\bin\Debug\net6.0\1118SeveralScoresWithValidation.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\refint\1118SeveralScoresWithValidation.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\1118SeveralScoresWithValidation.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1118SeveralScoresWithValidation\1118SeveralScoresWithValidation\obj\Debug\net6.0\ref\1118SeveralScoresWithValidation.dll

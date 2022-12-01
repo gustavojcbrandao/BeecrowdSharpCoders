@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\bin\Debug\net6.0\1037Interval.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\bin\Debug\net6.0\1037Interval.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\bin\Debug\net6.0\1037Interval.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\bin\Debug\net6.0\1037Interval.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\bin\Debug\net6.0\1037Interval.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\refint\1037Interval.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\1037Interval.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1037Interval\1037Interval\obj\Debug\net6.0\ref\1037Interval.dll

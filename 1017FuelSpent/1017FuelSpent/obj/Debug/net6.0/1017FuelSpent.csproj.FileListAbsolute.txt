@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\bin\Debug\net6.0\1017FuelSpent.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\bin\Debug\net6.0\1017FuelSpent.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\bin\Debug\net6.0\1017FuelSpent.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\bin\Debug\net6.0\1017FuelSpent.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\bin\Debug\net6.0\1017FuelSpent.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\refint\1017FuelSpent.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\1017FuelSpent.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1017FuelSpent\1017FuelSpent\obj\Debug\net6.0\ref\1017FuelSpent.dll

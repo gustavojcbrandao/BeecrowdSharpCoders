@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\bin\Debug\net6.0\1018Banknotes.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\bin\Debug\net6.0\1018Banknotes.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\bin\Debug\net6.0\1018Banknotes.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\bin\Debug\net6.0\1018Banknotes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\bin\Debug\net6.0\1018Banknotes.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\refint\1018Banknotes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\1018Banknotes.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1018Banknotes\1018Banknotes\obj\Debug\net6.0\ref\1018Banknotes.dll

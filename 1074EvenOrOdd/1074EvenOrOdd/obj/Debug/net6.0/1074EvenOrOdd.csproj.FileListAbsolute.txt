@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\bin\Debug\net6.0\1074EvenOrOdd.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\bin\Debug\net6.0\1074EvenOrOdd.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\bin\Debug\net6.0\1074EvenOrOdd.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\bin\Debug\net6.0\1074EvenOrOdd.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\bin\Debug\net6.0\1074EvenOrOdd.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\refint\1074EvenOrOdd.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\1074EvenOrOdd.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1074EvenOrOdd\1074EvenOrOdd\obj\Debug\net6.0\ref\1074EvenOrOdd.dll

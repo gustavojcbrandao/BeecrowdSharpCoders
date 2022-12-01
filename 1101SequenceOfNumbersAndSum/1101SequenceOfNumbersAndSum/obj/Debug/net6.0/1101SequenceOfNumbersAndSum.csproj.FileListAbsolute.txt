@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\bin\Debug\net6.0\1101SequenceOfNumbersAndSum.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\bin\Debug\net6.0\1101SequenceOfNumbersAndSum.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\bin\Debug\net6.0\1101SequenceOfNumbersAndSum.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\bin\Debug\net6.0\1101SequenceOfNumbersAndSum.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\bin\Debug\net6.0\1101SequenceOfNumbersAndSum.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\refint\1101SequenceOfNumbersAndSum.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\1101SequenceOfNumbersAndSum.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1101SequenceOfNumbersAndSum\1101SequenceOfNumbersAndSum\obj\Debug\net6.0\ref\1101SequenceOfNumbersAndSum.dll

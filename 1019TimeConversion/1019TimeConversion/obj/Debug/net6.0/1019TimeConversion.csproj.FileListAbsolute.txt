@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\bin\Debug\net6.0\1019TimeConversion.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\bin\Debug\net6.0\1019TimeConversion.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\bin\Debug\net6.0\1019TimeConversion.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\bin\Debug\net6.0\1019TimeConversion.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\bin\Debug\net6.0\1019TimeConversion.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\refint\1019TimeConversion.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\1019TimeConversion.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1019TimeConversion\1019TimeConversion\obj\Debug\net6.0\ref\1019TimeConversion.dll

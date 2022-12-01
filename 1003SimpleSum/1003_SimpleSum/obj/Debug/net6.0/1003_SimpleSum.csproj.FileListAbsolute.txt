@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\bin\Debug\net6.0\1003_SimpleSum.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\bin\Debug\net6.0\1003_SimpleSum.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\bin\Debug\net6.0\1003_SimpleSum.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\bin\Debug\net6.0\1003_SimpleSum.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\bin\Debug\net6.0\1003_SimpleSum.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\refint\1003_SimpleSum.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\1003_SimpleSum.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1003_SimpleSum\1003_SimpleSum\obj\Debug\net6.0\ref\1003_SimpleSum.dll

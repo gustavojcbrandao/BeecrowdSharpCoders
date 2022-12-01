@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\bin\Debug\net6.0\1040Snack.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\bin\Debug\net6.0\1040Snack.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\bin\Debug\net6.0\1040Snack.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\bin\Debug\net6.0\1040Snack.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\bin\Debug\net6.0\1040Snack.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\refint\1040Snack.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\1040Snack.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1040Snack\1040Snack\obj\Debug\net6.0\ref\1040Snack.dll

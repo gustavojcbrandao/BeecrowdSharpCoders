@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\bin\Debug\net6.0\1015DistanceBetweenTwoPoints.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\bin\Debug\net6.0\1015DistanceBetweenTwoPoints.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\bin\Debug\net6.0\1015DistanceBetweenTwoPoints.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\bin\Debug\net6.0\1015DistanceBetweenTwoPoints.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\bin\Debug\net6.0\1015DistanceBetweenTwoPoints.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\refint\1015DistanceBetweenTwoPoints.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\1015DistanceBetweenTwoPoints.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1015DistanceBetweenTwoPoints\1015DistanceBetweenTwoPoints\obj\Debug\net6.0\ref\1015DistanceBetweenTwoPoints.dll

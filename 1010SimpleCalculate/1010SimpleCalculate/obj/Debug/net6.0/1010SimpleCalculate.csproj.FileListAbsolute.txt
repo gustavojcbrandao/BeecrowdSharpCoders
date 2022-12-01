@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\bin\Debug\net6.0\1010SimpleCalculate.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\bin\Debug\net6.0\1010SimpleCalculate.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\bin\Debug\net6.0\1010SimpleCalculate.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\bin\Debug\net6.0\1010SimpleCalculate.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\bin\Debug\net6.0\1010SimpleCalculate.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\refint\1010SimpleCalculate.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\1010SimpleCalculate.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1010SimpleCalculate\1010SimpleCalculate\obj\Debug\net6.0\ref\1010SimpleCalculate.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\bin\Debug\net6.0\1072Interval2.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\bin\Debug\net6.0\1072Interval2.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\bin\Debug\net6.0\1072Interval2.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\bin\Debug\net6.0\1072Interval2.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\bin\Debug\net6.0\1072Interval2.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\refint\1072Interval2.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\1072Interval2.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1072Interval2\1072Interval2\obj\Debug\net6.0\ref\1072Interval2.dll

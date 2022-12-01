@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\bin\Debug\net6.0\1020AgeInDays.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\bin\Debug\net6.0\1020AgeInDays.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\bin\Debug\net6.0\1020AgeInDays.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\bin\Debug\net6.0\1020AgeInDays.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\bin\Debug\net6.0\1020AgeInDays.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\refint\1020AgeInDays.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\1020AgeInDays.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1020AgeInDays\1020AgeInDays\obj\Debug\net6.0\ref\1020AgeInDays.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\bin\Debug\net6.0\1047GameTimeWithMinutes.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\bin\Debug\net6.0\1047GameTimeWithMinutes.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\bin\Debug\net6.0\1047GameTimeWithMinutes.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\bin\Debug\net6.0\1047GameTimeWithMinutes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\bin\Debug\net6.0\1047GameTimeWithMinutes.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\refint\1047GameTimeWithMinutes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\1047GameTimeWithMinutes.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1047GameTimeWithMinutes\1047GameTimeWithMinutes\obj\Debug\net6.0\ref\1047GameTimeWithMinutes.dll

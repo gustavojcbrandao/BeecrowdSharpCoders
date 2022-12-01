@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\bin\Debug\net6.0\1066EvenOddPositiveAndNegative.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\bin\Debug\net6.0\1066EvenOddPositiveAndNegative.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\bin\Debug\net6.0\1066EvenOddPositiveAndNegative.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\bin\Debug\net6.0\1066EvenOddPositiveAndNegative.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\bin\Debug\net6.0\1066EvenOddPositiveAndNegative.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\refint\1066EvenOddPositiveAndNegative.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\1066EvenOddPositiveAndNegative.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1066EvenOddPositiveAndNegative\1066EvenOddPositiveAndNegative\obj\Debug\net6.0\ref\1066EvenOddPositiveAndNegative.dll

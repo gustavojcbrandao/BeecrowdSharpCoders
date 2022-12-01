@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\bin\Debug\net6.0\1116DividingXByY.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\bin\Debug\net6.0\1116DividingXByY.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\bin\Debug\net6.0\1116DividingXByY.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\bin\Debug\net6.0\1116DividingXByY.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\bin\Debug\net6.0\1116DividingXByY.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\refint\1116DividingXByY.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\1116DividingXByY.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1116DividingXByY\1116DividingXByY\obj\Debug\net6.0\ref\1116DividingXByY.dll

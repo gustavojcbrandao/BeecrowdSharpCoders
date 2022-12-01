@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\bin\Debug\net6.0\1013Maior.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\bin\Debug\net6.0\1013Maior.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\bin\Debug\net6.0\1013Maior.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\bin\Debug\net6.0\1013Maior.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\bin\Debug\net6.0\1013Maior.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\refint\1013Maior.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\1013Maior.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1013Maior\1013Maior\obj\Debug\net6.0\ref\1013Maior.dll

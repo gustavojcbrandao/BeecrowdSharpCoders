@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\bin\Debug\net6.0\1073EvenSquare.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\bin\Debug\net6.0\1073EvenSquare.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\bin\Debug\net6.0\1073EvenSquare.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\bin\Debug\net6.0\1073EvenSquare.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\bin\Debug\net6.0\1073EvenSquare.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\refint\1073EvenSquare.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\1073EvenSquare.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1073EvenSquare\1073EvenSquare\obj\Debug\net6.0\ref\1073EvenSquare.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\bin\Debug\net6.0\1113AscendingAndDescending.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\bin\Debug\net6.0\1113AscendingAndDescending.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\bin\Debug\net6.0\1113AscendingAndDescending.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\bin\Debug\net6.0\1113AscendingAndDescending.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\bin\Debug\net6.0\1113AscendingAndDescending.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\refint\1113AscendingAndDescending.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\1113AscendingAndDescending.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1113AscendingAndDescending\1113AscendingAndDescending\obj\Debug\net6.0\ref\1113AscendingAndDescending.dll

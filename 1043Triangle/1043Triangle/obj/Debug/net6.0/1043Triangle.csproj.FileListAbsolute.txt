@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\bin\Debug\net6.0\1043Triangle.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\bin\Debug\net6.0\1043Triangle.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\bin\Debug\net6.0\1043Triangle.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\bin\Debug\net6.0\1043Triangle.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\bin\Debug\net6.0\1043Triangle.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\refint\1043Triangle.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\1043Triangle.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1043Triangle\1043Triangle\obj\Debug\net6.0\ref\1043Triangle.dll

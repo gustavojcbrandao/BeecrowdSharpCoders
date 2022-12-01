@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\bin\Debug\net6.0\1117ScoreValidation.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\bin\Debug\net6.0\1117ScoreValidation.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\bin\Debug\net6.0\1117ScoreValidation.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\bin\Debug\net6.0\1117ScoreValidation.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\bin\Debug\net6.0\1117ScoreValidation.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\refint\1117ScoreValidation.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\1117ScoreValidation.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1117ScoreValidaiton\1117ScoreValidaiton\obj\Debug\net6.0\ref\1117ScoreValidation.dll

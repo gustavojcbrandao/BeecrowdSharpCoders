@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\bin\Debug\net6.0\1095SequenceIJ1.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\bin\Debug\net6.0\1095SequenceIJ1.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\bin\Debug\net6.0\1095SequenceIJ1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\bin\Debug\net6.0\1095SequenceIJ1.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\bin\Debug\net6.0\1095SequenceIJ1.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\refint\1095SequenceIJ1.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\1095SequenceIJ1.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1095SequenceIJ1\1095SequenceIJ1\obj\Debug\net6.0\ref\1095SequenceIJ1.dll

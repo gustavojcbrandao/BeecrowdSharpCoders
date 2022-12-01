@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\bin\Debug\net6.0\1059EvenNumbers.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\bin\Debug\net6.0\1059EvenNumbers.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\bin\Debug\net6.0\1059EvenNumbers.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\bin\Debug\net6.0\1059EvenNumbers.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\bin\Debug\net6.0\1059EvenNumbers.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\refint\1059EvenNumbers.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\1059EvenNumbers.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1059EvenNumbers\1059EvenNumbers\obj\Debug\net6.0\ref\1059EvenNumbers.dll

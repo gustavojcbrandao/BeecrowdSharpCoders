@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\bin\Debug\net6.0\1080HighestAndPosition.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\bin\Debug\net6.0\1080HighestAndPosition.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\bin\Debug\net6.0\1080HighestAndPosition.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\bin\Debug\net6.0\1080HighestAndPosition.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\bin\Debug\net6.0\1080HighestAndPosition.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\refint\1080HighestAndPosition.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\1080HighestAndPosition.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1080HighestAndPosition\1080HighestAndPosition\obj\Debug\net6.0\ref\1080HighestAndPosition.dll

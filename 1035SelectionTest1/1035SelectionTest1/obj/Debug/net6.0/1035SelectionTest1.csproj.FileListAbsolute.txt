@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\bin\Debug\net6.0\1035SelectionTest1.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\bin\Debug\net6.0\1035SelectionTest1.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\bin\Debug\net6.0\1035SelectionTest1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\bin\Debug\net6.0\1035SelectionTest1.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\bin\Debug\net6.0\1035SelectionTest1.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\refint\1035SelectionTest1.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\1035SelectionTest1.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1035SelectionTest1\1035SelectionTest1\obj\Debug\net6.0\ref\1035SelectionTest1.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\bin\Debug\net6.0\1067OddNumbers.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\bin\Debug\net6.0\1067OddNumbers.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\bin\Debug\net6.0\1067OddNumbers.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\bin\Debug\net6.0\1067OddNumbers.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\bin\Debug\net6.0\1067OddNumbers.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\refint\1067OddNumbers.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\1067OddNumbers.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1067OddNumbers\1067OddNumbers\obj\Debug\net6.0\ref\1067OddNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\bin\Debug\net6.0\1049Animal.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\bin\Debug\net6.0\1049Animal.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\bin\Debug\net6.0\1049Animal.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\bin\Debug\net6.0\1049Animal.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\bin\Debug\net6.0\1049Animal.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\refint\1049Animal.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\1049Animal.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1049Animal\1049Animal\obj\Debug\net6.0\ref\1049Animal.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\bin\Debug\net6.0\1075RemainingII.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\bin\Debug\net6.0\1075RemainingII.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\bin\Debug\net6.0\1075RemainingII.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\bin\Debug\net6.0\1075RemainingII.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\bin\Debug\net6.0\1075RemainingII.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\refint\1075RemainingII.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\1075RemainingII.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1075RemainingII\1075RemainingII\obj\Debug\net6.0\ref\1075RemainingII.dll

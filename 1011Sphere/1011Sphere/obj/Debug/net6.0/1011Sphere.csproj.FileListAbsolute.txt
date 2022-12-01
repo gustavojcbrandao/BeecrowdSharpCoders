@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\bin\Debug\net6.0\1011Sphere.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\bin\Debug\net6.0\1011Sphere.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\bin\Debug\net6.0\1011Sphere.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\bin\Debug\net6.0\1011Sphere.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\bin\Debug\net6.0\1011Sphere.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\refint\1011Sphere.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\1011Sphere.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1011Sphere\1011Sphere\obj\Debug\net6.0\ref\1011Sphere.dll

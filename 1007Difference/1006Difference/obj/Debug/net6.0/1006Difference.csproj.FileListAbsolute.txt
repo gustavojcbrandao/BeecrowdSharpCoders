@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\bin\Debug\net6.0\1006Difference.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\bin\Debug\net6.0\1006Difference.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\bin\Debug\net6.0\1006Difference.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\bin\Debug\net6.0\1006Difference.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\bin\Debug\net6.0\1006Difference.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\refint\1006Difference.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\1006Difference.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Difference\1006Difference\obj\Debug\net6.0\ref\1006Difference.dll

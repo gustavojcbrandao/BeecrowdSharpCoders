@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\bin\Debug\net6.0\1165PrimeNumber.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\bin\Debug\net6.0\1165PrimeNumber.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\bin\Debug\net6.0\1165PrimeNumber.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\bin\Debug\net6.0\1165PrimeNumber.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\bin\Debug\net6.0\1165PrimeNumber.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\refint\1165PrimeNumber.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\1165PrimeNumber.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1165PrimeNumber\1165PrimeNumber\obj\Debug\net6.0\ref\1165PrimeNumber.dll

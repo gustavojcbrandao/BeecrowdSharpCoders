@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\bin\Debug\net6.0\1006Average2.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\bin\Debug\net6.0\1006Average2.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\bin\Debug\net6.0\1006Average2.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\bin\Debug\net6.0\1006Average2.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\bin\Debug\net6.0\1006Average2.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\refint\1006Average2.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\1006Average2.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1006Average2\1006Average2\obj\Debug\net6.0\ref\1006Average2.dll

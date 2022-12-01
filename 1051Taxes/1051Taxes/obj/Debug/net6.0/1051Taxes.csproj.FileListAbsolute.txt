@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\bin\Debug\net6.0\1051Taxes.exe
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\bin\Debug\net6.0\1051Taxes.deps.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\bin\Debug\net6.0\1051Taxes.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\bin\Debug\net6.0\1051Taxes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\bin\Debug\net6.0\1051Taxes.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\refint\1051Taxes.dll
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.pdb
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\1051Taxes.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Cursos\Imã\SharpCoders\Exemplos\Beecrowd\1051Taxes\1051Taxes\obj\Debug\net6.0\ref\1051Taxes.dll
